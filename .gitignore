@@ -1,0 +1,14 @@
+# Environment variables & secrets
+backend/.env
+.env
+
+# Python virtual environment
+backend/venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
